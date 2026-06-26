@@ -114,7 +114,8 @@ pip install -r requirements.txt
 ```
 
 ### 2. File Placement
-Place your source datasets in the following structure before execution:
+Dataset source: https://www.statmt.org/europarl/
+Please place the source datasets in the following structure before execution:
 ```text
 data/
 ├── word2vec_dataset.en
