@@ -6,7 +6,7 @@ This repository showcases a structured progression through foundational and mode
 
 ---
 
-## Module 1: Word Embeddings (Skip-Gram from Scratch)
+## Word Embeddings (Skip-Gram from Scratch)
 
 ### Technical Details
 - **Architecture**: Skip-Gram (predicts surrounding context words given a target center word).
@@ -51,7 +51,7 @@ Applying Principal Component Analysis (PCA) to project the 50-dimensional embedd
 
 ---
 
-## Module 2: Neural Machine Translation (PyTorch Transformer)
+## Neural Machine Translation (PyTorch Transformer)
 
 ### Technical Details
 - **Architecture**: Sequence-to-Sequence Transformer [7].
